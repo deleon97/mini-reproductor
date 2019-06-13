@@ -1,0 +1,39 @@
+{
+    "songs":[
+        {
+            "id":0,
+            "name":"Dont let me down",
+            "artist":"The Chainsmokers",
+            "song":"music/DontLetMeDown.mp3",
+            "image":"img/thumbnails/dontletmedown.jpg"
+        },
+        {
+            "id":1,
+            "name":"Happier",
+            "artist":"Ed Sheeran",
+            "song":"music/Happier.mp3",
+            "image":"img/thumbnails/happier.jpg"
+        },
+        {
+            "id":2,
+            "name":"Somebody That I Used To Know",
+            "artist":"Gotye",
+            "song":"music/SomebodyThatIUsedToKnow.mp3",
+            "image":"img/thumbnails/SomebodyThatIUsedToKnow.jpg"
+        },
+        {
+            "id":3,
+            "name":"Something Just Like This",
+            "artist":"The Chainsmokers",
+            "song":"music/SomethingJustLikeThisTheChainsmokers.mp3",
+            "image":"img/thumbnails/SomethingJustLikeThisTheChainsmokers.jpg"
+        },
+        {
+            "id":4,
+            "name":"The Scientist",
+            "artist":"The Chainsmokers",
+            "song":"music/TheScientist.mp3",
+            "image":"img/thumbnails/TheScientist.jpg"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+h1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: rgb(17, 190, 17);
+    color:white;
+    border: solid rgb(17, 190, 17) 10px;
+}
+.centrado {
+    margin: 0 auto;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+#player {
+    outline: none;
+}
+
+li:hover {
+    background-color: lightgray;
+}
+
+#shuffle
+{
+    margin-bottom: 9px;  
+}
